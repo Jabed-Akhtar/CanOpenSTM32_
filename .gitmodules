@@ -7,7 +7,3 @@
 [submodule "legacy/libs/lwrb"]
 	path = legacy/libs/lwrb
 	url = https://github.com/MaJerle/lwrb
-[submodule "CANopenNode"]
-	path = CANopenNode
-	url = https://github.com/CANopenNode/CANopenNode
-	branch = master
